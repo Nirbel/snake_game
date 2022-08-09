@@ -1,7 +1,7 @@
 from turtle import Turtle
 import random
 
-FOOD_POSITION = (-280,280)
+
 class Food(Turtle):
 
     def __init__(self):
